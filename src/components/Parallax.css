@@ -1,0 +1,8 @@
+.parallax-bg {
+  background-image: url('https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'); /* Replace with your image path */
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
